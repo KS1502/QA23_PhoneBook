@@ -164,3 +164,7 @@ testem.log
 .DS_Store
 Thumbs.db
 *.iml
+.idea
+settings.gradle
+gradlew
+*.bat
